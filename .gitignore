@@ -1,0 +1,5 @@
+# Ignorar archivo de variables de entorno
+.venv
+
+# Ignorar directorio Files/ (contiene archivos subidos/generados)
+Files/
